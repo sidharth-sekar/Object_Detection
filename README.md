@@ -104,7 +104,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or feedback, feel free to reach out through the issues section on GitHub or contact me at [shamsundarak2005@gmail.com](shamsundarak2005@gmail.com).
+For any questions or feedback, feel free to reach out through the issues section on GitHub or contact me at [sidharths2033@gmail.com](sidharths2033@gmail.com).
 
 ---
 
